@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            My development blog
+description:      I will be discussing all things related to development here.  I will be focusing mostly on the .NET world.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,9 +8,9 @@ url:              http://www.joshuadeanhall.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Joshua Hall
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          joshuadeanhall@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -36,11 +36,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
