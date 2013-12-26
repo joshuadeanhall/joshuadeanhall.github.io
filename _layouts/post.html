@@ -11,16 +11,20 @@
 
 {% include navigation.html %}
 
-<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog"> 12TEST BLOG POST
+<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+    Site Dis Shortname <br />
     {{ site.disqus_shortname }}
-    {{ page.description }}
-    otherDISCUS
+    <br /> Page shortname :
     {{ page.disqus_shortname }}
-    orhter
+    <br /> Descriptions:
     {{ site.description }}
+    <br /> comments:
     {{ site.comments }}
     <br />
+    <br />
+    If shortname
     {% if site.disqus_shortnames %}Josh Stuff{% endif %}
+    <br /> If comments
     {% if site.comments %}Comments stuff{% endif %}
   <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" itemprop="image">{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>{% endif %}{% endif %}
