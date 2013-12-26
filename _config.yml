@@ -1,7 +1,7 @@
 title:            My development blog
 description:      I will be discussing all things related to development here.  I will be focusing mostly on the .NET world.
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: joshdevblog
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://www.joshuadeanhall.com
