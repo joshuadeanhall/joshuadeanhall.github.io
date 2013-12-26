@@ -3,7 +3,7 @@ description:      CONFIGI will be discussing all things related to development h
 logo:             site-logo.png
 disqus_shortname: joshdevblog
 search:           true
-comments: true
+comments:         true
 #Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://www.joshuadeanhall.com
 
