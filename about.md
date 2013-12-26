@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
+title: About Me
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive, development, .NET]
 modified: 2013-09-13
 image:
