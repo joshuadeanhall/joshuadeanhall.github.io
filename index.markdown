@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Some info here about this view the community and other things.

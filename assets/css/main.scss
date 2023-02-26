@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+
+
+.left-nav {
+  color: green;
+}
+
+@import "minima";
+
+
+.home {
+  background-color: red;
+}
+
+.left-nav {
+  background-color: green;
+}

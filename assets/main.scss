@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+.home {
+  display: flex;
+}
+
+.left-nav {
+  margin-right: 100px;
+  border-right-style: solid;
+  ul {
+    li {
+      list-style-type: none;
+    }
+  }
+}
